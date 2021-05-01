@@ -1,5 +1,8 @@
-h3{
+input{
     display: block;
+}
+h3{
+    display: none;
     font-weight: bold;
     color: white;
     font-size: 50px;
