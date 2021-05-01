@@ -27,6 +27,7 @@ function paintGreeting(text) {
   greeting.classList.add(SHOWING_CN);
   greeting.innerText = `Hello ${text}`;
   document.getElementById("greeting").style.display = "none";
+  
 
 }
 function loadName() {
