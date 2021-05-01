@@ -1,7 +1,7 @@
 const form = document.querySelector(".who");
 const input = form.querySelector("input");
 const greeting = document.querySelector(".name");
-document.getElementById("greeting").style.display = "none";
+
 
 
 const USER_LS = "currentUser", SHOWING_CN = "name";
@@ -26,6 +26,7 @@ function paintGreeting(text) {
   form.classList.remove(SHOWING_CN);
   greeting.classList.add(SHOWING_CN);
   greeting.innerText = `Hello ${text}`;
+  document.getElementById("greeting").style.display = "none";
 
 }
 function loadName() {
