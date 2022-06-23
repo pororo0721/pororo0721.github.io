@@ -14,7 +14,7 @@ This webpage is a page where you can check the current location's weather and ti
 - I was able to learn and use HTML and CSS.
 
 ## To be supplemented
--My css skills were very poor. The special todo list is located at the bottom of the page, so it is a little lacking to use.
+- My css skills were very poor. The special todo list is located at the bottom of the page, so it is a little lacking to use.
 
 
 ## Link
