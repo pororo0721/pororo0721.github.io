@@ -1,5 +1,9 @@
 # Personal Project
-## ⛅ Weather, ⌚ Clock, ✍️ To do list Webpage
+
+![Hnet-image (1)](https://user-images.githubusercontent.com/79802132/149155442-83708b97-42c1-433d-9851-b2f2ce5344a8.gif)
+
+## Introduction
+This webpage is a page where you can check the current location's weather and time and also create a Todo list.
 
 ## 🛠 Stack
 
@@ -7,6 +11,6 @@
 
 
 ## Link
-https://pororo0721.github.io/
+[Link](https://pororo0721.github.io/)
 
-![Hnet-image (1)](https://user-images.githubusercontent.com/79802132/149155442-83708b97-42c1-433d-9851-b2f2ce5344a8.gif)
+
